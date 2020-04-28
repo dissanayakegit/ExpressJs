@@ -1,0 +1,19 @@
+{
+  "name": "ExpressJsApp",
+  "version": "1.0.0",
+  "description": "sudo npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Index.js",
+    "dev": "nodemon Index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "uuid": "^7.0.3"
+  }
+}
